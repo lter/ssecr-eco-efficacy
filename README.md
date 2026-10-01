@@ -1,6 +1,16 @@
-# [Group Type] Group Title
+# [SSECR-2026] Ecological Efficacy of Climate Adaptation Actions
 
-Principal Investigators: _Name, Name, ..._
+Principal Investigators (ordered alphabetically by last name):
+
+Georges Agonvonon
+Alexandra Griffin
+Lorenzo Maggio Laquidara
+Airy Peralta
+Anita Weissflog
+Zhaoxun (Nancy) Yang
+
+## Research Questions
+
 
 ## Script Explanations
 
