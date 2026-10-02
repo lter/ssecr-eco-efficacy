@@ -11,7 +11,7 @@ Principal Investigators (ordered alphabetically by last name):
 
 ## Research Questions
 
--
+- How does the efficacy of different management strategies directed at woody encroachment vary with climate change?
 
 ## Script Explanations
 
