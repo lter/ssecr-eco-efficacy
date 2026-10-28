@@ -13,6 +13,8 @@ Principal Investigators (ordered alphabetically by last name):
 
 - How does the efficacy of different management strategies directed at woody encroachment vary with climate change?
 
+- How does planting diverse forests affect forest resilience across a climate gradient? 
+
 ## Script Explanations
 
 Briefly describe the purpose of major scripts as you create them!
