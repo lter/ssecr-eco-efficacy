@@ -5,7 +5,6 @@ Principal Investigators (ordered alphabetically by last name):
 - Georges Agonvonon, University of Bern
 - Alexandra Griffin, University of Minnesota
 - Lorenzo Maggio Laquidara, North Carolina State University
-- Airy Peralta, University of Colorado Boulder
 - Anita Weissflog, ETH Zurich
 - Zhaoxun (Nancy) Yang, Marine Biological Laboratory
 
