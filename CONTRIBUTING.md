@@ -1,8 +1,6 @@
 # Intellectual Credit Guidelines
 
-<!-- Copy this file to the top-level of your GitHub repository and name it "CONTRIBUTING.md" _before_ editing it. -->
-
-This project had its genesis in the LTER [Synthesis Skills for Early Career Researchers](https://lter.github.io/ssecr/) course of 2026. The original project group (<mark>\[insert names here\]</mark>) developed the idea, gathered data... <mark>\[fill in here however far you have gotten/expect to get in the course\]</mark>. These guidelines articulate how we, as a group, have agreed to share intellectual credit for project outputs both during the course and in any related project work that may take place after the course has ended.
+This project had its genesis in the LTER [Synthesis Skills for Early Career Researchers](https://lter.github.io/ssecr/) course of 2026. The original project group (<mark>\Georges Agonvonon, Alexandra Griffin, Lorenzo Maggio Laquidara, Zhaoxun (Nancy) Yang, Anita Weissflog </mark>) developed the idea, gathered data... <mark>\[fill in here however far you have gotten/expect to get in the course\]</mark>. These guidelines articulate how we, as a group, have agreed to share intellectual credit for project outputs both during the course and in any related project work that may take place after the course has ended.
 
 The headings and prompts below are intended to guide and facilitate substantive group discussion, **not** to constrain group decision making. There is no wrong way to do this except to avoid the conversation.
 
@@ -11,8 +9,11 @@ The headings and prompts below are intended to guide and facilitate substantive 
 Core products are those directly underpinned by the course-related research question, data acquisition, and processing.
 
 - *What is your group definition of a core product?*
+- manuscript, potentially an outreach product (tbd)
 - *What type of contribution warrants authorship of core products? Is group membership sufficient?*
+- 
 - *Are there different requirements for data products than papers?* *How will you determine author order?*
+- 
   - Note that different disciplines have different conventions regarding the meaning of author order. Be sure you understand how it will be interpreted in the relevant fields and journals
 - *If you use a [CRediT](https://doi.org/10.1087/20150211) or other framework for documenting contributions, this is a good place to link it.*
 
@@ -32,7 +33,9 @@ Synthesis teams are rarely static. If you continue with this project after the c
 ## *Leaving* the Team
 
 - *How should they communicate their intention?*
+- announce they want to leave, group asks that person to write their own contributions statement to understand how they perceive their role in the project so far
 - *Does course participation imply a minimum level of formal credit? If so, what? If not, what else is required?*
+- formal credit yes (e.g. in acknowledgements), authorship not necessarily - this depends on how far we get until the end of the course; in any case, all co-authors need to review the final manuscript and provide comments; use credit guidelines and assure that every author contributes to ≥ 2 aspects of the writing process one of them being commenting on the final draft
 - *If they later want to re-engage, what is the process?*
 
 ## *Joining* the Team
@@ -41,8 +44,12 @@ Synthesis teams are rarely static. If you continue with this project after the c
 - *What level of commitment or effort will you expect? How will that be communicated?*
 - *Are authorship requirements the same for newcomers as for existing team members?* *Where do they fit in the author order?*
 
-## Artificial Intelligence
+## Author order: first author, last author
+- tbd later on in project
+- consider what group members need at their career stages, cultural standards, gauge Meagan's and Sarah's interest in last author position
 
+## Artificial Intelligence
+- form group consensus on what we want to use AI for and what not (e.g., formulation of broad ideas or general structure without AI to harness different ways of thinking)
 <mark>This is also a good place to include or link to your process for documenting the use of AI agents and tools in your data gathering, analysis, and writing.</mark>
 
 ## Funding
