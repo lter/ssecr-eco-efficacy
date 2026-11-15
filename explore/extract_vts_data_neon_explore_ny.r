@@ -7,7 +7,7 @@ library(tidyverse)
 library(dplyr)
 library(lubridate)
 # install_github('NEONScience/NEON-geolocation/geoNEON', dependencies=TRUE)
-# read token
+# read token from a local file, see https://www.neonscience.org/resources/learning-hub/tutorials/neon-api-tokens-tutorial Option 1
 source(paste0(file.path("neon_token_source.R")))
 # read in sites from Alex's list
 site_info <- read_csv(file.path("woody_encroachment_neon_data_explore.csv"))
@@ -44,3 +44,5 @@ with(sum_vst_shrubgroup, table(siteID, year(date)))
 # glimpse(`vst_non-woody`)
 # from NEON website: the vst_non-woody table contains one record per individualID per eventID, 
 # and contains growth form, structure and status data that may be linked to vst_perplotperyear data via the plotID and eventID fields.
+
+# I will continue to work on this...
