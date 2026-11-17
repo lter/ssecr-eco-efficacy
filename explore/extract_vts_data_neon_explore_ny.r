@@ -35,7 +35,9 @@ time_df <- df %>% distinct(siteID, date)
 sum_df <- time_df %>%
   mutate(years = year(date)) %>%
   count(siteID, years, name = "n_sampling_dates")
-write.csv(sum_df, paste0("sum_", fn, ".csv"), row.names = FALSE)
+f1 <- write.csv(sum_df, paste0("sum_", fn, ".csv"), row.names = FALSE)
+f2 <- write.csv(time_df, paste0("time_", fn, ".csv"), row.names = FALSE)
+message("export two csv files")
 }
 
 
